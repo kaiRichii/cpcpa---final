@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "firm-vortex-449506-e2",
+  "private_key_id": "8fb3b303f46b07a7b9e5bf3db197848f2ea4161c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2flNd1snE5f9w\nt6gjeFYgMnT5bJbssgVbg4TM0iOioOnHmtwSMrfELDFrizaM+bS2x44X4f1EiDRJ\n1IbbaQUlsua6FOFMooHbodRiPpvnX6jl4RsKevwjnWO7mj9xgqRA9EZzzLY66UKZ\ndroqNGzVxwPtpDoN/41WyBDOEztqBTMArUHe4ob3v+awYi4YDw8pOJbH6i93ci1s\nlq4wOiTxdCWOwTDI9+5YC/6ttkXp4YreHQ/HvRollMuFlF0J1d0s6f+J+Zn2XGiq\n0iNeTxtk/uuYKm2wAugUGpzRuWhb/Hwr25GYpR1RrioLkB3Jhliz0Nb8XADibxGH\n5bTgf9d9AgMBAAECggEASoKNezTlMLVPdDAoQEMztvWi+OuzO3T75v9ty0rJLe9R\nRCQgUnXOvhPlIam3XhveAvq7M1kb1U1fO/3ACfl5FolS1wsLagS3zHrogixZ70AJ\nb8JXDhJkvA3Y2JID8U6LzdFuqn0csjTm8k2dePnqreYR3oc9BNYgWRxacCk+Cuzf\nvl6CDoQHqeaaOo1qfmDZOaHT9pQheERIRjQOJr6txpuiLtNiF9P25qYLarQH1lVr\nngt+0dFo9duOqbaE6HiWEHBxA4KWRw2DseFspzAJ2j3BvLgiUJ8LUXNitxpO4r77\n/p9fzU5RLItd0Q1F0D+HKESfwm8wr1sfO2jSYKMr6QKBgQDkdyNNbucyc375MrRW\nv6i+ZAPrYGVofVWJNTj9L0VxOJZhre3K4flneQlUduT01a2uOMudx5UP5zaa/P5Q\nVzNKbDhNB8Yqj+TOt68lXMGg3riF/atL8xpMlGKHT9gSOVRLwizf5fQd+VWwyAwR\nRUS3Mqfu1y5a0YcfxkKT58kIfwKBgQDMfM/jIUzNj9i4XNQehwliGf/mi4xHCkhq\ne6J1ESK8DW1XtOqUimIE4oWoqDa5ZYMUPIvaxLQT5Pd9bDyXDLSwP40ArGCJgMxX\nO9FcBudX3ovHVnmNw43uBWekIYdFSXaCSv8rbMrEWGXYYI0v1+smFtToAEwP0Sbf\nOqmFkQxCAwKBgQC7R/p1cFMvpUPRzcHNVuFh6STZXzTh2dQzXKCx031OWb/UpLpI\nVMOZEbwXNDtthHgSWFZ5qXDFD5lQpdFnVIQkHuBsLNJCc6Bx4Fs/+nBzif+jPxWb\nddX6Lq0yFL6f+cTjMXKNu7hIleqrtuFFiw3QS0MkY9qI8jedUW2kRx4hywKBgF0G\ncrRLE9t4EwlcAYuZtuUQGuBQn5I51VPLxs4m63xNR27c+NJ2Wb0LJ+7gB3Uz/vuX\nx6/QSHO8d/Jw6Od2ekSrxIOH56rmEw+kQMvywA+zSDd42XdqfQjJIKsELbuRff4s\nDAU/Sscjx8E1u0UGnw0G2fhpGjEf3uUylKgUolTtAoGBANFv5+3SkLtRxdj66hNk\nySXDdhvBJMGHb+uRCyYOcTsjj2gSgd1yY/UztvOpU4New8b9c35gd+qfbDF2Ia8J\n56ZbAzasUficFQg+DfTT70jiCx347rFyRPcmtJMglfX+eFrpEVVoNXFHyJ3e1ANV\naPJjZq3/8u90fWjPdLbq0Tyd\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-editor-cpcpa@firm-vortex-449506-e2.iam.gserviceaccount.com",
+  "client_id": "115770652775227880966",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-editor-cpcpa%40firm-vortex-449506-e2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
